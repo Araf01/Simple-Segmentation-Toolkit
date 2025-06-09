@@ -55,7 +55,8 @@ The toolkit is designed to support a full annotation lifecycle:
 
 This is the core application for manual annotation. It allows you to open a directory of images and draw labeled shapes.
 
-* **[INSERT SCREENSHOT OF THE LABELING APP HERE]**
+* **![image](https://github.com/user-attachments/assets/b54105e9-7bd6-4cd4-9940-7608370ae093)
+**
 
 ### 2. Mask Generator (JSON to Mask)
 
