@@ -80,7 +80,9 @@ a pixel value of 255 should be labeled as "lines"
 a pixel value of 170 should be labeled as "object"
 The script then finds the contours of each colored region and saves them as "freehand" annotations in a new JSON file, ready to be opened in the main labeling app.
 
-![image](https://github.com/user-attachments/assets/30b2e09a-aeb1-4caf-a4ec-cca788c7d07c)
+![image](https://github.com/user-attachments/assets/30b2e09a-aeb1-4caf-a4ec-cca788c7d07c) 
+![image](https://github.com/user-attachments/assets/2185b720-a607-46d5-871e-4d8ffdbf17c7)
+
 
 
 ## Setup and Installation
