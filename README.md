@@ -100,11 +100,14 @@ git clone https://github.com/Araf01/Simple-Segmentation-Toolkit
 cd Simple-Segmentation-Toolkit
 
 # 2) Create & activate a Python 3.10.8 virtual environment
+# macOS/Linux:
 python3.10 -m venv .venv
+#Windows:
+py -3.10 -m venv .venv
 
 # macOS/Linux:
 source .venv/bin/activate
-# Windows (PowerShell):
+# Windows:
 .venv\Scripts\Activate.ps1
 
 # 3) Upgrade pip & install dependencies
