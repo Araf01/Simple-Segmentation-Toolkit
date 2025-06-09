@@ -1,0 +1,33 @@
+# --- Python ---
+# Byte-compiled / optimized / C extension files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Virtual Environments ---
+# Your virtual environment folder
+.venv/
+venv/
+env/
+
+# --- IDE / Editor Configuration ---
+# VS Code, PyCharm, etc.
+.vscode/
+.idea/
+
+# --- Operating System Files ---
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+
+# --- Project-Specific Output ---
+# The folder where your labeling app saves its JSON files
+json_data/
+
+
+# --- Distribution / Packaging ---
+build/
+dist/
+*.egg-info/
