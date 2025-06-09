@@ -85,7 +85,7 @@ This project is built with standard Python libraries.
 
 - **Python 3.10.8**  
 - `git`, `pip`
-- 
+  
 ## 🔧 Installation
 
 ```bash
