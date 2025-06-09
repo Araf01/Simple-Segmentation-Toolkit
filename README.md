@@ -1,7 +1,7 @@
 # Simple-Segmentation-Toolkit
 A Python toolkit for the image segmentation workflow (labeling, mask generation, mask-to-JSON), specialized for medical images like OCT scans.
 
-![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)
+![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 A complete Python toolkit with a user-friendly GUI for creating, managing, and converting image segmentation annotations. While versatile, this suite of tools was designed with a focus on medical imaging, particularly for annotating OCT (Optical Coherence Tomography) scans. It provides a full workflow for manual labeling, generating training masks, and converting existing masks back into an editable format.
